@@ -21,3 +21,5 @@ Calculate the average_silhouette for every k. Average - silhouette =  s(i)/n
 · Values near 0 denote overlapping clusters.
 
 Which is highest point in the graph we need to select that.
+
+![Alt text](https://github.com/srirampamerla/Unsupervised_K-Means/blob/main/silhouette.jpeg?raw=true)
